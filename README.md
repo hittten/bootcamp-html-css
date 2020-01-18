@@ -65,7 +65,7 @@ see in https://developer.mozilla.org/en-US/docs/Learn:
         + [ ] Add `poster` boolean attribute and see the preview image
         + [ ] Add `autoplay` boolean attribute and see how the video is played automatically, but when is finish it stop.
         + [ ] Add `loop` boolean attribute and see how the video played repeatedly
-        + [ ] Add `control` boolean attribute and see how the video played repeatedly
+        + [ ] Add `controls` boolean attribute and see how the video played repeatedly
         + [ ] Add auto tag for `viper.mp3` and `viper.ogg`
     - From object to iframe — other embedding technologies
         + [ ] Create new html index document
@@ -91,12 +91,11 @@ see in https://developer.mozilla.org/en-US/docs/Learn:
 ## Learning and hands-on (CSS)
 * CSS first steps overview
     - CSS basics
-        + [ ] 
+        + [ ] Create new index.html file with and follow de practice.
     - What is CSS?
     - Getting started with CSS
     - How CSS is structured
     - How CSS works
-    - Using your new knowledge
 
 * CSS building blocks overview
     - Cascade and inheritance
@@ -106,6 +105,7 @@ see in https://developer.mozilla.org/en-US/docs/Learn:
     - The box model
         + [ ] Playing with box models
     - Backgrounds and borders
+        + [ ] Playing with backgrounds and borders
     - Handling different text directions
     - Overflowing content
     - Values and units
